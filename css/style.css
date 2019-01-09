@@ -1,4 +1,16 @@
 [class*="Section"]{
-	/*min-height: 150px;*/
-	margin-bottom: 50px;
+	/*min-height: 350px;*/
+	/*margin-bottom: 50px;*/
+
+	margin: 0 0 50px 0;
 }
+
+.mainContentWrapper, .centerNav{
+	margin: 0 auto;
+	width: 70%;
+}
+
+nav.centerNav{
+	width: 90%;
+}
+
